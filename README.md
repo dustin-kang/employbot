@@ -48,29 +48,4 @@
 
 
 ## 📝 개발 일지
-<table>
-  <tr>
-    <th scope="col">순서</td>
-    <th scope="col">내용</td>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td><a href="https://velog.io/@dongwookang/Slack-취업-봇-만들기-EP01">취업봇 만들기 EP1</a></td>
-  </tr>
-  <tr>
-    <td>2</td>
-    <td><a href="https://velog.io/@dongwookang/Slack-취업-봇-만들기-EP02">취업봇 만들기 EP2</a></td>
-  </tr>
-    <tr>
-    <td>3</td>
-    <td><a href="https://velog.io/@dongwookang/Slack-취업-봇-만들기-EP03">취업봇 만들기 EP3</a></td>
-  </tr>
-    <tr>
-    <td>4</td>
-    <td><a href="https://velog.io/@dongwookang/Slack-취업-봇-만들기-EP04">취업봇 만들기 EP4</a></td>
-  </tr>
-    <tr>
-    <td>5</td>
-    <td><a href="https://velog.io/@dongwookang/Slack-취업-봇-만들기-EP05">취업봇 만들기 EP5</a></td>
-  </tr>
-</table>
+https://dongwooblog.tistory.com/124
